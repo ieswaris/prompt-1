@@ -62,6 +62,12 @@ understanding context, generating coherent text, and performing specific tasks. 
 
 An LLM is a type of AI model that uses machine learning built on billions of parameters to 
 understand and produce text, while generative AI is a category that contains a myriad of tools built to use information from LLMs and other types of AI models using machine learning to generate new content.
+
+## References:
+
+https://www.ibm.com/topics/generative-ai
+https://itsfoss.com/llm-vs-generative-ai/
+https://www.cloudflare.com/learning/ai/what-is-large-language-model/
  
 ## Conclusion:
 
